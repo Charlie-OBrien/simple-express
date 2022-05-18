@@ -1,0 +1,14 @@
+{
+  "name": "simple-express",
+  "version": "1.0.0",
+  "description": "Simple Express app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Charles OBrien",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
